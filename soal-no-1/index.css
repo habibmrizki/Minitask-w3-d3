@@ -32,7 +32,7 @@ body {
   background-color: #575757;
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 1024px) {
   .nav-item {
     display: block;
     text-align: left;
